@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="OnlineFoodDeliveryBackend20240501091127" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\risha\\OneDrive\\Desktop\\Project\\Food-delivery\ Backend\\OnlineFoodDeliveryBackend\\OnlineFoodDeliveryBackend\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
